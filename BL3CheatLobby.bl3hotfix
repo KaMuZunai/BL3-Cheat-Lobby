@@ -2299,7 +2299,7 @@ SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/HeavyWeapons/Eridian/_Shared/_Design
 SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/HeavyWeapons/Eridian/_Shared/_Design/Parts/Part_Eridian_Fabricator.Part_Eridian_Fabricator,AspectList.AspectList[7].Object..Component.Object..PatternHeightScale.BaseValue,0,,0.0
 SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/HeavyWeapons/Eridian/_Shared/_Design/Parts/Part_Eridian_Fabricator.Part_Eridian_Fabricator,AspectList.AspectList[7].Object..Component.Object..PatternWidthScale.BaseValue,0,,0.0
 SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/HeavyWeapons/Eridian/_Shared/_Design/Parts/Part_Eridian_Fabricator.Part_Eridian_Fabricator,AspectList.AspectList[7].Object..Component.Object..RecoilSpeed,0,,0
-SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/HeavyWeapons/Eridian/_Shared/_Design/UIModeName_Fabricator_PrimaryFire.UIModeName_Fabricator_PrimaryFire,Text,0,,[skillbold]Keyzzz[/skillbold]
+SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/HeavyWeapons/Eridian/_Shared/_Design/UIModeName_Fabricator_PrimaryFire.UIModeName_Fabricator_PrimaryFire,Text,0,,[skillbold]Keys[/skillbold]
 SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/HeavyWeapons/Eridian/_Shared/_Design/Att_FabricatorProjectilesPerShot.Att_FabricatorProjectilesPerShot,ValueResolver.Object..Value.BaseValueConstant,0,,1
 SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/HeavyWeapons/Eridian/_Shared/_Design/Att_FabricatorShotCost.Att_FabricatorShotCost,ValueResolver.Object..Value.BaseValueConstant,0,,1
 SparkPatchEntry,(1,1,0,),/Game/Gear/Weapons/HeavyWeapons/Eridian/_Shared/_Design/Parts/Part_Eridian_Fabricator.Part_Eridian_Fabricator,AspectList.AspectList[1].Object..WeaponUseComponent.Object..AutomaticBurstCount.BaseValue,0,,0
